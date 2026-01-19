@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="optativa_pycicd",
+    name="optativa_pycicd_bdd",
     version="1.0.0",
-    author="Román Martínez",
-    author_email="rgmf@riseup.net",
-    description="Descripción de tu proyecto",
+    author="Blagovest Doukov Dimitrova",
+    author_email="dandeline544@gmail.com",
+    description="Proyecto de blagovest",
     packages=find_packages(),
     install_requires=[
         "pytest",
